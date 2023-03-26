@@ -8,7 +8,7 @@ Este desafio é destinado a candidatos que sejam iniciantes na área e não é n
 1. Conta aws free tier
 	* Para criar a conta, você pode seguir o tutorial disponível em: https://www.youtube.com/watch?v=DQj8_yZsH_E
 2. Conhecimento básico de lógica de programação e sistemas
-3. Escolher um dos projetos para realizar o desafio:
+3. Escolher `apenas` um dos projetos para realizar o desafio:
 	* Back end: [Projeto php symfony](./backend)
 	* Front end: [Projeto react js](./frontend)
 4. Docker para conteiners
