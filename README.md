@@ -1,6 +1,6 @@
 # Bem vindo ao desafio DevOps
 
-Esse desafio se encaixa como júnior
+Esse desafio se encaixa como júnior. Não será necessario saber como mexer nas linguagens do projeto, apenas ler sobre como é feito o build no readme e aplicar no CI do github actions ou plataforma que preferir
 
 # Requisitos para desafio
 
