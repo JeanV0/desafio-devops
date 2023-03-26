@@ -10,6 +10,7 @@ Este desafio é destinado a candidatos que sejam iniciantes na área e não é n
 2. Conhecimento básico de lógica de programação e sistemas
 3. Plataforma de CI/CD (Github Actions, Azure Pipeline, AWS CodeBuild, etc. Escolha uma)
 4. Terraform para cloud
+5. Se não terminou tudo a tempo, não se preocupe, poderá enviar mesmo assim e vamos avaliar
 
 ## Como realizar o desafio
 
