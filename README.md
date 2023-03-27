@@ -16,7 +16,7 @@ Este desafio é destinado a candidatos que sejam iniciantes na área e não é n
 ## Como realizar o desafio
 
 ### Sistema a ser executado ( olhar na pasta service e escolhe um )
-Uma aplicação feita em php com framework symfony. A aplicação em si ja vai estar disponibilizada um dockerfile. Porem, esse dockerfile tem falhas que quero que resolva.
+Uma aplicação feita em php com framework symfony. A aplicação em si ja vai estar disponibilizada um `dockerfile`. Porem, esse dockerfile tem falhas que quero que resolva.
 #### Passos:
 1. Consertar falhas no sistema de build no dockerfile
 2. Fazer build e enviar para um docker hub publico com suas credenciais
