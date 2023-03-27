@@ -1,7 +1,7 @@
 
 # Bem-vindo ao desafio DevOps para a posição de júnior
 
-Este desafio é destinado a candidatos que sejam iniciantes na área e não é necessário ter conhecimento prévio das linguagens utilizadas nos projetos. O objetivo é ler sobre como é feito o build no README e aplicar no CI do Github Actions ou na plataforma de sua preferência.
+Este desafio é destinado a candidatos que ja estajam na área e não é necessário ter conhecimento prévio das linguagens utilizadas nos projetos. O objetivo é ler sobre como é feito o build no README e aplicar no CI do Github Actions ou na plataforma de sua preferência.
 
 # Requisitos para desafio
 
